@@ -1,0 +1,6 @@
+framework module FORPopupController {
+  umbrella header "FORPopupController-umbrella.h"
+
+  export *
+  module * { export * }
+}

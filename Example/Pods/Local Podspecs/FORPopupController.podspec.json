@@ -1,0 +1,24 @@
+{
+  "name": "FORPopupController",
+  "version": "0.1.0",
+  "summary": "A short description of FORPopupController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/FORPopupController",
+  "license": "MIT",
+  "authors": {
+    "Origheart": "kang.liu@51offer.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/FORPopupController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FORPopupController/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 0.20.0"
+    ]
+  }
+}
