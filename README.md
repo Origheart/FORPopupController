@@ -9,11 +9,17 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_1.jpg)
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_2.jpg)
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_3.jpg)
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_4.jpg)
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_5.jpg)
+![image](http://7xoktv.com1.z0.glb.clouddn.com/FORPopupController_6.jpg)
 ## Requirements
 
 ## Installation
 
-FORPopupController is available through [CocoaPods](http://cocoapods.org). To install
+**Not support yet** FORPopupController is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
